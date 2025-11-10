@@ -1,5 +1,9 @@
-# DFT-Super-Cell-Input-File-Generator
+# DFT Super Cell Input File Generator
 A Python script that takes an existing input file for XCrysden or Quantum Espresso and scales the compound based on the parameters you input.
+
+## Prerequisites
+- Python
+
 ## Objective
 Convert 3D Mxene to Supercell
 Multiply cell by n times in x and y (ex. multiply cell 4 times in x and 3 times in y) 
